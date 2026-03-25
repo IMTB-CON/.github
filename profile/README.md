@@ -13,7 +13,7 @@ Wir unterstützen Behörden auf Bundes-, Landes- und Kommunalebene bei der digit
 
 Dieses GitHub dient als Plattform für:
 
-* **Prototypen und MVPs** im Bereich KI
+* **Prototypen und MVPs** im Bereich KI und Low-Code
 * **Referenzarchitekturen** (z. B. RAG-Systeme, On-Prem LLMs)
 * **Praxisnahe Use Cases** für die öffentliche Verwaltung
 * **Leitfäden und Best Practices** für den Einsatz von KI
@@ -35,8 +35,6 @@ Unsere Lösungen sind ausgerichtet auf:
 
 ## 📂 Beispiel-Projekte
 
-Eine Auswahl unserer Repositories:
-
 * RAG-Chatbot für Behörden
 * Dokumentenanalyse mit LLMs
 * KI-Workshops und Schulungsmaterialien
@@ -44,7 +42,7 @@ Eine Auswahl unserer Repositories:
 
 ## 🤝 Zusammenarbeit
 
-Wir freuen uns über Austausch, Feedback und Kooperationen – insbesondere mit:
+Wir freuen uns über Austausch, Feedback und Kooperationen, insbesondere mit:
 
 * Öffentlichen Einrichtungen
 * IT-Dienstleistern im GovTech-Bereich
@@ -56,4 +54,4 @@ Wir freuen uns über Austausch, Feedback und Kooperationen – insbesondere mit:
 
 ---
 
-*“Technologie entfaltet ihren Wert erst dann, wenn sie im Alltag funktioniert.”*
+*Digitale Transformation - Sicher. Einfach. Menschlich.*
