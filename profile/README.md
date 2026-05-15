@@ -30,10 +30,10 @@ Wir arbeiten **herstellerunabhängig** und orientieren uns konsequent an den Zie
 
 Unsere Projekte entstehen überwiegend in sicherheitskritischen Behördenumgebungen. Typische technische Bausteine:
 
-- **On-Premise-LLM-Stacks** mit Ollama, Qwen und deutschen Embedding-Modellen (z. B. jina-embeddings-v2-base-de) – keine Datenabflüsse an externe Cloud-Anbieter
+- **On-Premise-LLM-Stacks** mit Ollama und deutschen Embedding-Modellen (z. B. jina-embeddings-v2-base-de) – keine Datenabflüsse an externe Cloud-Anbieter
 - **Retrieval-Augmented Generation (RAG)** über behördliche Bestände via CMIS 1.1 (Alfresco, OS|ECM, d.3) inklusive berechtigungsbewusster Indexierung
 - **Model Context Protocol (MCP)** für die kontrollierte Anbindung von Fachverfahren an KI-Assistenten
-- **Integration mit Fachverfahren** wie VIS, BRAVORS, EL.NORM und XDOMEA-konformen Aussonderungsworkflows
+- **Integration mit Fachverfahren** wie Alfresco, VIS, BRAVORS, EL.NORM und XDOMEA-konformen Aussonderungsworkflows
 - **Sichere Architekturen** mit nginx-Reverse-Proxy, stunnel-PSK, SSO über Microsoft Entra ID, Container-Deployment
 
 ---
